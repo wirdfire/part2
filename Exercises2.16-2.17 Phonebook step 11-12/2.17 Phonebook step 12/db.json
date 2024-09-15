@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "name": "Dan Abramov",
+      "content": "React expert and co-creator of Redux.",
+      "number": "12-34-567890",
+      "important": true
+    },
+    {
+      "id": "2",
+      "name": "Browser Execute",
+      "content": "Handles JavaScript execution in the browser environment.",
+      "number": "Unknown",
+      "important": true
+    },
+    {
+      "id": "4",
+      "name": "Mary Poppendieck",
+      "content": "Known for Lean Software Development principles.",
+      "number": "39-23-6423122"
+    },
+    {
+      "id": "5",
+      "name": "Arto Hellas",
+      "content": "Instructor of the Full Stack Open course.",
+      "number": "040-123456"
+    },
+    {
+      "id": "6",
+      "name": "Ada Lovelace",
+      "content": "Mathematician and the first computer programmer.",
+      "number": "39-44-5323523"
+    },
+    {
+      "id": "7",
+      "name": "Dan Abramov",
+      "content": "React expert and co-creator of Redux.",
+      "number": "12-43-234345",
+      "important": true
+    },
+    {
+      "id": "8",
+      "name": "Mary Poppendieck",
+      "content": "Known for Lean Software Development principles.",
+      "number": "39-23-6423122"
+    },
+    {
+      "id": "0ed3",
+      "name": "Moverick Jark",
+      "content": "Software developer specializing in backend technologies.",
+      "number": "00239923772"
+    },
+    {
+      "id": "07d7",
+      "name": "Moverick Moverick",
+      "content": "Full-stack developer with a focus on JavaScript frameworks.",
+      "number": "00239923784"
+    },
+    {
+      "id": "21f7",
+      "name": "Williams Anderson",
+      "content": "DevOps specialist and cloud architect.",
+      "number": "83494383847"
+    },
+    {
+      "id": "4ceb",
+      "name": "Lartin Win",
+      "number": "009933883383"
+    },
+    {
+      "id": "d97c",
+      "name": "Gloure Harmoney",
+      "number": "00993388338322"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+Complete Full Stack Open Exercises 2.1-2.20
+
+- **Exercises 2.1-2.5: Course Information**: Implemented React components to manage and display course information. Refactored code to handle component state and props, and successfully rendered course details with dynamic exercise counts.
+
+- **Exercises 2.6-2.17: Phonebook Application**: Developed a comprehensive phonebook application with features to:
+
+  - Add and manage contacts, ensuring no duplicates (2.6).
+
+  - Implement search functionality to filter contacts (2.7).
+
+  - Store initial phonebook data using `db.json` and `json-server` (2.8).
+
+  - Update contact details and handle user confirmations for updates and deletions (2.10-2.14).
+
+  - Cleaned up code by separating backend communication into its own module (2.13).
+
+  - Finalized phonebook functionality, including error handling and user feedback (2.15).
+
+- **Exercises 2.18-2.20: Data for Countries**: Enhanced the country search application with the following features:
+
+  - Implemented search functionality to filter and display countries, with user prompts for over 10 matches (2.18).
+
+  - Added "Show" buttons to display detailed information for individual countries (2.19).
+
+  - Integrated OpenWeatherMap API to fetch and display weather information for the capital city of the selected country (2.20).
+
+This commit represents the completion of exercises from parts 2.1 through 2.20 of the Full Stack Open course, showcasing improvements in React component design, application functionality, and integration with external APIs.
